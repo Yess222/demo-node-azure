@@ -1,4 +1,0 @@
-{
-    "appService.defaultWebAppToDeploy": "${APP_SERVICE_DEFAULT_WEB_APP_TO_DEPLOY}",
-    "appService.deploySubpath": "${APP_SERVICE_DEPLOY_SUBPATH}"
-}
