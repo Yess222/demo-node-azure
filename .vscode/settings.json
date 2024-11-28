@@ -1,4 +1,4 @@
 {
-    "appService.defaultWebAppToDeploy": "/subscriptions/3f446a6e-d56b-46e3-a875-978c9cc4ef3c/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/demo-node-0001",
-    "appService.deploySubpath": "."
+    "appService.defaultWebAppToDeploy": "${APP_SERVICE_DEFAULT_WEB_APP_TO_DEPLOY}",
+    "appService.deploySubpath": "${APP_SERVICE_DEPLOY_SUBPATH}"
 }
